@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687938945678",
+    "project_id": "raksha-e46a1",
+    "storage_bucket": "raksha-e46a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687938945678:android:5b36fd614092b1b0b5ffdf",
+        "android_client_info": {
+          "package_name": "com.dan.naari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687938945678-gn8nai84rpv6obqua76oq3kjo9f6t0ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIOR0os95XhACHK04i0byMT9t-V-NF08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687938945678-gn8nai84rpv6obqua76oq3kjo9f6t0ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
